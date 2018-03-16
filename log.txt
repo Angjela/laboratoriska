@@ -1,0 +1,12 @@
+$ git log
+commit 055e4696203b2b7791155a4177bcc05a958590cc (HEAD -> logging, origin/master, master)
+Author: unknown <angjela.jovanovska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:55:39 2018 +0100
+
+    modify l1.txt
+
+commit 2942485fae0afc6f41f65c5565cba32c79e49314
+Author: unknown <angjela.jovanovska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:47:02 2018 +0100
+
+    Initial commit
